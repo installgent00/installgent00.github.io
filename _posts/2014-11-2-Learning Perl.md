@@ -10,5 +10,5 @@ Learn about programming, that's a script language so i dont need much knowledge.
 
 {% highlight perl %}
 #!/usr/bin/perl
-Print "Hello World!";
+Print "Hello World! \n";
 {% endhighlight %}
