@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+20 years old man want to programming shit, thats all! My english is poor as fuck, so GET OUT GRAMMAR NAZIS.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+I live in Cádiz.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Send me messages as github (you can see in the footer).
