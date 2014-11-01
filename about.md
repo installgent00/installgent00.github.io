@@ -8,4 +8,4 @@ permalink: /about/
 
 ### Contact me
 
-Send me messages in github (you can see in the footer).
+You can contact me on Twitter/Github (see footer).
